@@ -1,3 +1,6 @@
 h1 { 
-	font-family: Arial;color:red;font-size:70px; 
+	font-family: Arial;
+	color:red;
+	font-size:70px; 
+	border: 1px solid #000;
 }
