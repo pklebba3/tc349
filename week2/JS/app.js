@@ -1,4 +1,4 @@
 function hello() {
-	alert("Hello World");
+	alert("Your browser version is reported as " + navigator.appVersion);
 }
 
