@@ -1,0 +1,36 @@
+
+body {
+	background: #ccc;
+	border-top: 5px solid #424242;
+	margin: 0;
+	font-family: "Helvetica", sans-serif;
+	line-height: 1.4em;
+}
+h1 {
+	padding: 20px 15px;
+	background: #aaa;
+	color: blue;
+	text-shadow: 1px 1px 10px #424242;
+	text-align: center;
+}
+table, tr, td {
+	border: 1px solid blue;
+	border-collapse: collapse;
+	text-align: center;
+	padding: 5px;
+	margin: auto;
+}
+
+table td {
+	padding: 5px;
+}
+
+.container {
+	background: #fff;
+	width: 900px;
+	margin: 0 auto;
+	border: 10px solid blue;
+}
+p {
+	padding: 5px;
+}
