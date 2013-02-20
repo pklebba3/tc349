@@ -1,0 +1,5 @@
+Heroku.com is a well-built site.  The first thing I noticed was the "How it Works" page at the top of the top.  Previous sites that we have analyzed did not do a great job at explaining what their main function is.  The Heroku page does a great job at walking the viewer through the different functions step-by-step.  It is cool to see the terminal "code" on the main screen.  There are four different functions to click on, and for each one a specific code is shown.  It is cool to see the "behind the scenes" programming.
+
+The dark background and light writing makes the page easy to navigate.  It gives off a relaxing effect because it is primarily dark.  The information at the very bottom that is a little less significant has a darker writing color to almost hide it from the viewer.  Its nice because it does not draw your attention to non-important data.  Now, if you want to view these items (We're Hiring & Partners), you can simply scroll over them and they will light up.
+
+I decided to use the single column layout because I like the vertical look.  It is easy to navigate your attention between the text content and the images.
