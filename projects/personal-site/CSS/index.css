@@ -11,6 +11,11 @@ body {
 	margin: 0 10%;
 	border: 7px groove;
 }
+
+.image {
+	margin: 0 auto;
+	width: 780px;
+}
 	
 footer {
 	background: #505050;
@@ -154,8 +159,7 @@ article a:hover{
 
 .image-container {
 	margin: 0 auto;
-	width: 350px;
-	padding: 1px;
-	margin: 2px;
+	width: 800px;
+
 }
 
