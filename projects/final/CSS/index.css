@@ -15,6 +15,7 @@ body {
 .image {
 	margin: 0 auto;
 	width: 780px;
+	padding: 0px;
 }
 	
 footer {
@@ -73,7 +74,7 @@ h3 {
 }
 
 h3.first {
-	padding: 0px 0px 0px 10px;
+	padding: 0px 0px 0px 0px;
 	font-size: medium;
 	margin-bottom: -12px;
 	color: #500000;
@@ -82,6 +83,7 @@ h3.first {
 table {
 	clear: both;
 	margin: 10px;
+	float: left;
 }
 table, tr, td {
 	border: 1px solid white;
@@ -92,6 +94,26 @@ table, tr, td {
 
 table td {
 	padding: 5px;
+}
+
+table.tbl1{
+	float: left;
+	display: inline;
+	
+}
+
+table.tbl2{
+	float: left;
+	display: inline;
+	
+}
+
+table.tbl3{
+}
+
+.TBL{
+	margin-right: auto;
+	margin-left: auto;
 }
 
 a:visited {
