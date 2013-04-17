@@ -4,6 +4,13 @@
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<title>Personal</title>
 	<link rel="stylesheet" href="CSS/index.css" type="text/css" media="screen">
+	<script type="text/javascript" src="JS/jquery.js"></script>
+	<script>
+	function myFunction(personal)
+	{
+	document.getElementById("personal").innerHTML="When you are paying at a register, hand the cashier a $20 or any bill and they say out of 20?! Listen for it next time.";
+	}
+	</script>
 </head>
 <body>
 <div class="container">
@@ -63,6 +70,8 @@
 			<td>Los Angeles Clippers</td>
 		</tr>	
 	</table>
+	<p id="personal">What is my most recent pet peeve acquired?</p>
+	<button type="button" onclick="myFunction(personal)">Find Out!</button>
 	
 	<footer>
 		<p>Created by: Phil Klebba for Michigan State University, TC 349, Spring 2013</p>
