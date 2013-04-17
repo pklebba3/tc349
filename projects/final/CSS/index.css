@@ -22,9 +22,9 @@ footer {
 	background: #0099FF;
 	clear: both;
 	font-size: small;
-}
-
-footer p{
+	margin: 0px;
+	color: #fff;
+	text-shadow: 1px 5px 10px #FF6600;
 	text-align: center;
 }
 
@@ -168,7 +168,7 @@ a:hover {
 }
 
 .nav a:active{
-	color: red;
+	color: #FFFFFF;
 }
 
 	
@@ -196,6 +196,8 @@ article a:hover{
 	color: #0099CC;
 }
 
+
+
 .image-container {
 	margin: 0 auto;
 	width: 800px;
@@ -208,4 +210,24 @@ img-home {
 	text-align: center;
 	padding: 0px;
 }
+
+
+/* Scroller Box */
+#scroller_container {
+ position: relative;
+ width: 300px;
+ height: 60px;
+ overflow: hidden;
+}
+
+#scroller {
+ white-space: nowrap;
+ line-height: 60px;
+ font-size: 60px;
+}
+
+#scroller p {
+ padding: 0;
+}
+/* Scoller Box */
 
