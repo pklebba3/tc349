@@ -120,11 +120,11 @@ table.tbl3{
 }
 
 a:visited {
-	color: green;
+	color: orange;
 }
 
 a:hover {
-	color: #0099FF;
+	color: #black;
 }
 
 .nav{
@@ -196,8 +196,6 @@ article a:hover{
 	color: #0099CC;
 }
 
-
-
 .image-container {
 	margin: 0 auto;
 	width: 800px;
@@ -211,23 +209,4 @@ img-home {
 	padding: 0px;
 }
 
-
-/* Scroller Box */
-#scroller_container {
- position: relative;
- width: 300px;
- height: 60px;
- overflow: hidden;
-}
-
-#scroller {
- white-space: nowrap;
- line-height: 60px;
- font-size: 60px;
-}
-
-#scroller p {
- padding: 0;
-}
-/* Scoller Box */
 
