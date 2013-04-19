@@ -67,8 +67,6 @@ h2 {
 	color: #FF6600;
 }
 
-
-
 h3 {
 	margin-bottom: 2px;
 	clear: both;	
@@ -92,31 +90,10 @@ table, tr, td {
 	border: 1px solid white;
 	border-collapse: collapse;
 	text-align: center;
-
 }
 
 table td {
 	padding: 5px;
-}
-
-table.tbl1{
-	float: left;
-	display: inline;
-	
-}
-
-table.tbl2{
-	float: left;
-	display: inline;
-	
-}
-
-table.tbl3{
-}
-
-.TBL{
-	margin-right: auto;
-	margin-left: auto;
 }
 
 a:visited {
@@ -180,7 +157,6 @@ article {
 	background: #EBEAEA;
 	border: 2px solid #FF6600;
 	text-align: center;
-	
 }
 
 article a{
@@ -207,6 +183,15 @@ img-home {
 	float: left;
 	text-align: center;
 	padding: 0px;
+}
+
+button {
+	display: block;
+	margin: 0 auto;
+}
+
+p.but {
+	text-align: center;
 }
 
 
